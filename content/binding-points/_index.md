@@ -1,0 +1,5 @@
+---
+title: "Binding Points"
+---
+
+{{< pages >}}
