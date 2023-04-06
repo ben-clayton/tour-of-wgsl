@@ -1,7 +1,0 @@
----
-title: "Textures"
----
-
-* sampled
-* storage
-
